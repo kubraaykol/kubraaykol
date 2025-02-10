@@ -21,7 +21,7 @@
 
 
 
->**And finally,**<br> 
+>**And,**<br> 
 <br>_"I have a passion for noticing the details that go unnoticed by others."_ 
 <br>**Yes, I think this sentence describes me the best.**
 

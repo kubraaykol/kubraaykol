@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kübra.</h1>
 <h3 align="center">This is my project repository where I share my coding experiments and software projects. Feel free to explore!</h3>
 
-- 🌱 I’m currently learning **.Net and Spring courses**
+- 🌱 I’m currently learning **.Net and Spring**
 
 - 💬 Ask me about **Java, C# and Design**
 

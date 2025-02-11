@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **.Net and Spring**
 
-- 💬 Ask me about **Java, C# and Design**
+- 💬 Ask me about **Java, C#, Design and Philosophy**
 
 - 📫 How to reach me **kubraaykol@outlook.com**
 
